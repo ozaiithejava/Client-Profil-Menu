@@ -1,4 +1,4 @@
 # Client-Profil-Menu
-a basic profile meni to MCP client ingerdients: friends,coin,head,clan,others
+a basic profile menu to MCP client ingerdients: friends,coin,head,clan,others
 
 #20STARDA SIZINLE
